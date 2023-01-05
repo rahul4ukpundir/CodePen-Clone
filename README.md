@@ -6,3 +6,7 @@
       npm instal @fortawesome/react-fontawesome --forcenpm 
       npm install @fortawesome/free-solid-svg-icons --force
 
+
+### Running Project on below URL
+https://rahul4ukpundir.github.io/CodePen-Clone/
+

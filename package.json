@@ -1,7 +1,7 @@
 {
   "name": "code-pen-clone",
   "version": "0.1.0",
-  "homepage": "https://rahul4ukpundir.github.io/code-pen-clone/",
+  "homepage": "https://rahul4ukpundir.github.io/CodePen-Clone/",
   "private": true,
   "dependencies": {
     "@fortawesome/free-solid-svg-icons": "^6.2.1",
