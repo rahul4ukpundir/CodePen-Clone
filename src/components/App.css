@@ -2,21 +2,14 @@ body{
   margin: 0;
 }
 
-.CodeMirror{
-  height: 100% !important;
-}
-
-.top-pane{
-  background-color: hsl(225, 6%,25%);
-}
 .pane{
   height: 50vh;
-  display: flex;
+  display: flex
 }
 
 .editor-container{
-  flex-grow: 1;
-  flex-basis: 0;
+  flex-grow: 1; /* will divided all the editor box with some space*/
+  flex-basis: 0; /* will divided all the editor box with same space*/
   display: flex;
   flex-direction: column;
   padding:.5rem;
@@ -32,6 +25,7 @@ body{
   justify-content: space-between;
   color:white;
   padding: .5rem;
+  border: 1px solid rgb(118, 118, 118);
   border-top-right-radius: .5rem;
   border-top-left-radius: .5rem;
 } 
